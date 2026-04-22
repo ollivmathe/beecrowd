@@ -1,47 +1,44 @@
 # 🧠 Beecrowd Solutions — C++
 
-Repositório pessoal com minhas soluções para os problemas da **beecrowd**, desenvolvidas em **C++**.
+Personal repository containing my solutions for **beecrowd** problems, developed in **C++**.
 
-O objetivo é **armazenamento, prática e acompanhamento de progresso**, sem foco em documentação detalhada ou didática.
-
----
-
-## 📂 Estrutura
-
-As soluções estão organizadas por **categorias da própria beecrowd**, facilitando a navegação:
-
-📁 iniciante/
-📁 ad-hoc/
-📁 strings/
-📁 matematica/
-📁 estruturas-e-bibliotecas/
-📁 paradigmas/
-📁 grafos/
-📁 geometria-computacional/
-
-
-Cada arquivo normalmente corresponde a um problema e é identificado pelo **número do problema**.
+The primary goal of this project is **storage, practice, and progress tracking**, without a focus on detailed documentation or tutorials.
 
 ---
 
-## 🛠️ Linguagem
+## 📂 Structure
 
-- **C++** (padrão moderno sempre que possível)
-- Foco em clareza e aceitação pelo juiz online
+Solutions are organized by **beecrowd categories** to make navigation easier:
+
+* 📁 `iniciante/` (Beginner)
+* 📁 `ad-hoc/`
+* 📁 `strings/`
+* 📁 `matematica/` (Mathematics)
+* 📁 `estruturas-e-bibliotecas/` (Structures & Libraries)
+* 📁 `paradigmas/` (Paradigms)
+* 📁 `grafos/` (Graphs)
+* 📁 `geometria-computacional/` (Computational Geometry)
+
+Each file typically corresponds to a specific problem and is identified by its **problem number**.
 
 ---
 
-## ⚠️ Observações
+## 🛠️ Language & Tech
 
-- Este repositório é de **uso pessoal**
-- As soluções refletem meu nível de conhecimento no momento em que foram escritas
-- Não há garantia de que sejam as mais otimizadas ou elegantes
+* **C++** (using modern standards whenever possible).
+* Focus on code clarity and meeting the online judge's requirements.
+
+---
+
+## ⚠️ Notes
+
+* This repository is for **personal use**.
+* The solutions reflect my level of knowledge at the time they were written.
+* There is no guarantee that they are the most optimized or elegant versions possible.
 
 ---
 
 ## 📌 Beecrowd
 
-🔗 https://www.beecrowd.com.br/
-[ollivmathe](https://judge.beecrowd.com/pt/profile/1151347)
-
----
+🔗 [beecrowd.com.br](https://www.beecrowd.com.br/)  
+👤 [ollivmathe Profile](https://judge.beecrowd.com/pt/profile/1151347)
