@@ -1,6 +1,6 @@
-# 🧠 Beecrowd Solutions — C++
+# 🧠 Beecrowd Solutions
 
-Personal repository containing my solutions for **beecrowd** problems, developed in **C++**.
+Personal repository containing my solutions for beecrowd problems, developed in C++ and Java.
 
 The primary goal of this project is **storage, practice, and progress tracking**, without a focus on detailed documentation or tutorials.
 
@@ -19,14 +19,16 @@ Solutions are organized by **beecrowd categories** to make navigation easier:
 * 📁 `grafos/` (Graphs)
 * 📁 `geometria-computacional/` (Computational Geometry)
 
-Each file typically corresponds to a specific problem and is identified by its **problem number**.
+  
+💡 Note: Files are named after their specific problem number (e.g., 1001.cpp or 1001.java).
 
 ---
 
 ## 🛠️ Language & Tech
 
 * **C++** (using modern standards whenever possible).
-* Focus on code clarity and meeting the online judge's requirements.
+* **Java** (focused on standard practices and OOP fundamentals).
+* Focus on code clarity, logic, and meeting the online judge's requirements.
 
 ---
 
